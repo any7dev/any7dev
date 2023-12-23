@@ -1,1 +1,1 @@
-<p style="text-align:center">⚡ Estoy empezando con esto</p>
+<h2>⚡ Estoy empezando con esto</h2>
