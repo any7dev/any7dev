@@ -1,5 +1,3 @@
-### ⚡ SYSADMIN ⚡
-
 <p align="left">
   <a href="https://github.com/any7dev">
     <img src="https://skillicons.dev/icons?i=azure" /> <img alt="Static Badge" src="https://img.shields.io/badge/AZ-400-blue">
