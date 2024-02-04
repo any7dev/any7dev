@@ -1,7 +1,7 @@
 ### ⚡ Entreteniendome un rato :beginner:
 
 <p align="left">
-  <a href="https://skillicons.dev](https://github.com/any7dev">
+  <a href="https://github.com/any7dev">
     <img src="https://skillicons.dev/icons?i=azure" />
   </a>
 </p>
